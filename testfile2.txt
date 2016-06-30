@@ -1,5 +1,6 @@
 This is a second test file.
 
 Also just some lines of text to edit.
+Edit in feature A2
 
 So nothing special, really.
